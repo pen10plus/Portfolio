@@ -84,6 +84,7 @@ button {background: transparent;border: 0;}
 html,body{
     height: 100%;
 	position: relative;
+	overflow-x: hidden;
 }
 [placeholder]:focus::-webkit-input-placeholder {
   -webkit-transition: opacity 0.3s 0.3s ease; 
